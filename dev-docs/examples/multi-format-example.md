@@ -40,7 +40,7 @@ var adUnit = {
       api: [2],
     },
     native: {
-      adTemplate: `<div style="width: 300px; height:250px; background-image: url(##hb_native_asset_id_1##);">`,
+      adTemplate: `<div style="width: 300px; height:250px; background-image: url(##hb_native_asset_id_1##);"></div>`,
       ortb: {
         assets: [
           {
